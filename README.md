@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kacpikoks11
 - 👀 I’m interested in c++/python
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning c#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me axeel648@gmail.com
 
